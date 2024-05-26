@@ -1,7 +1,9 @@
+<!--页面顶部-->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={TITLE}&fontSize=90&fontAlign=50&fontAlignY=30&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={HI THERE!}&fontSize=90&fontAlign=50&fontAlignY=30&desc={I'm Azir!}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
-## Hi there 👋
+<!--打字机效果动图-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=75F7EB&random=false&width=435&lines=Welcome+to+my+Github+profile+page!)](https://git.io/typing-svg)
 
 <!--
 **DRaz1r/DRaz1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +21,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={TITLE}&fontSize=90&fontAlign=50&fontAlignY=70&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={THE END!}&fontSize=90&fontAlign=50&fontAlignY=70&desc={Hope your program is bug-free!}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
