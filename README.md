@@ -1,8 +1,8 @@
-<!--页面顶部-->
+<!-- 页面顶部 -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={HI THERE!}&fontSize=90&fontAlign=50&fontAlignY=30&desc={I'm Azir!}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
-<!--打字机效果动图-->
+<!-- 打字机效果动图 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=75F7EB&random=false&width=435&lines=Welcome+to+my+Github+profile+page!)](https://git.io/typing-svg)
 
 <!--
